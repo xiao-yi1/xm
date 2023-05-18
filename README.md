@@ -1,2 +1,6 @@
-命令行输入 npm install 安装依赖包
-          npm build 打包程序
+在xm文件夹下命令行输入：
+1. npm install 安装依赖包
+
+
+2. npm run build 打包程序,获得一个dist文件夹即为打包后的项目
+3. 将打包后的dist文件夹通过FTP上传至远程服务器指定目录中，并在服务器中安装Web服务器并进行相关设置即可
